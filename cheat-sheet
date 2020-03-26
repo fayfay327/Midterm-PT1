@@ -1,13 +1,16 @@
 <!DOCTYPE html>
 <html>
     <body>
-        <h1><center>Midterm Part 1 Glossary</center></h1>
+        <h1 class= header><center>Midterm Part 1 Glossary</center></h1>
         <h3><center>AKA: Cheat Sheet</center></h3>
 <center><img src="ready.gif" alt="Ready gif" width="60" height="60">
 </center>
        <div class="searchb">
  <center>
-   <input type="text" id="mySearchb" onkeyup="myFunction()" placeholder="WHAT'S ON THE MENU..." title="Type in a category">
+   <div class="search-container">
+ 		<input type="text" placeholder="WHAT'S ON THE MENU..." name="search">
+ 		<button type="submit"><i class="fa fa-search"></i></button>
+ </div>
  </center>
 </div>
 
@@ -15,7 +18,8 @@
 
         <div style="background-color:lightblue; color:#e43fdb); padding:5px;">
           <h1> KEY</h1>
-            <p>None of these entries will include "< >" because I do not want to confuse myself as I am typing out my code;&#128516; </p>
+          <p>None of these entries will include "< >" because I do not want to confuse myself as I am typing out my code;&#128516; </p>
+<br />
             <h2>doctype</h2>
             <p>tells the web browser what type of HTML the page utilizes</p>
             <h2>body</h2>
@@ -168,10 +172,12 @@
             <p>
               creates an abbreviation
             </p>
+            <br />
             <h2>br</h2>
             <p>
               displays a line break
             </p>
+            <br />
             <h2>address</h2>
             <p>
               can be utilized for email and a physical address
