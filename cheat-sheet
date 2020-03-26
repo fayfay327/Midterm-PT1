@@ -1,0 +1,46 @@
+<html>
+    <body>
+        <h1><center>Midterm Part 1 Glossary</center></h1>
+        <h3><center>AKA: Cheat Sheet</center></h3>
+
+       <div class="searchb">
+ <input type="text" id="mySearchb" onkeyup="myFunction()" placeholder="WHAT'S ON THE MENU..." title="Type in a category">
+</div>
+
+
+<meta charset="UTF-8">
+
+        <div style="background-color:lightblue; color:#e43fdb, 0.92); padding:5px;">
+          <h1> KEY</h1>
+            <p>None of these entries will include "< >" because I do not want to confuse myself as I am typing out my code;&#128516; </p>
+            <h2>doctype</h2>
+            <p>tells the web browser what type of HTML the page utilizes</p>
+            <h2>body</h2>
+            <p>this is were the heart of your work is & what displays within your webpage</p>
+            <h2>css</h2>
+            <p>cascading style sheets / can save a file via ".css"</p>
+            <h2>rgb colors</h2>
+            <p>color value represented by percenages or numbers between 0 & 255</p>
+            <h2>th</h2>
+            <p>displays table heading</p>
+            <h2>tr</h2>
+            <p>
+              displays table row
+            </p>
+            <h2>td</h2>
+            <p>
+              reveals your rows elements
+            </p>
+            <h2>div</h2>
+            <p>
+
+            </p>
+            <h2>span</h2>
+            <p>
+
+            </p>
+            <h2>a href</h2>
+            </div>
+
+    </body>
+</html>
