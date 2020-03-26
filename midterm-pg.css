@@ -6,7 +6,7 @@ header.page-header {
     height: 120px;
     min-width: 120px;
     align-items: center;
-    color: #fff;
+    color: #eefc12;
     text-shadow: #000 0 0 .2em;
 }
 
@@ -33,7 +33,7 @@ footer {
     display: flex;
     justify-content: center;
     padding: 1px;
-    background-color: #45a1ff;
+    background-color: #d25698;
     color: #fff;
     text-align: center;
 }
