@@ -1,0 +1,12 @@
+#name-container {
+	color:#e07026;
+}
+
+/makes the borders pretty/
+.borders{
+  box-sizing: border-box;
+	border-style: dotted;
+	width: 50%;
+  border-color:#371b87 10px;
+  padding: 5px;
+}
