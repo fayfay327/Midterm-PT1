@@ -1,12 +1,15 @@
+<!DOCTYPE html>
 <html>
     <body>
         <h1><center>Midterm Part 1 Glossary</center></h1>
         <h3><center>AKA: Cheat Sheet</center></h3>
-
+<center><img src="ready.gif" alt="Ready gif" width="60" height="60">
+</center>
        <div class="searchb">
- <input type="text" id="mySearchb" onkeyup="myFunction()" placeholder="WHAT'S ON THE MENU..." title="Type in a category">
+ <center>
+   <input type="text" id="mySearchb" onkeyup="myFunction()" placeholder="WHAT'S ON THE MENU..." title="Type in a category">
+ </center>
 </div>
-
 
 <meta charset="UTF-8">
 
@@ -19,7 +22,7 @@
             <p>this is were the heart of your work is & what displays within your webpage</p>
             <h2>css</h2>
             <p>cascading style sheets / can save a file via ".css"</p>
-            <h2>rgb colors</h2>
+            <h2 style ="background-color:#9592c8;">rgb colors</h2>
             <p>color value represented by percenages or numbers between 0 & 255</p>
             <h2>th</h2>
             <p>displays table heading</p>
@@ -31,7 +34,7 @@
             <p>
               defines a cell in a table
             </p>
-            <h2>div</h2>
+            <h2 style ="background-color:#7ae7c5;">div</h2>
             <p>
             defines a section within an HTML document
             </p>
@@ -39,13 +42,13 @@
             <p>
             defines a section within another tag
             </p>
-            <h2>a href</h2>
+            <h2>a href</h2><link rel="#name-container" type="text/css" href="cheat-sheet.css">
             <p>
               tag for url links
+              <a></a>
             </p>
-            <h2>px</h2>
-            <p>
-              display pixel amount for images, borders, etc
+            <h2 style ="background-color:#f57149;">px</h2>
+            <p class= borders> display pixel amount for images, borders, etc
             </p>
             <h2>img</h2>
             <p>
@@ -188,4 +191,3 @@
             </div>
     </body>
 </html>
-
