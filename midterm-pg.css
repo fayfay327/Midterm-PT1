@@ -1,0 +1,39 @@
+header.page-header {
+    background-position: center;
+    background-image: image(img_3042.jpg);
+    background-attachment: fixed;
+    display: flex;
+    height: 120px;
+    min-width: 120px;
+    align-items: center;
+    color: #fff;
+    text-shadow: #000 0 0 .2em;
+}
+
+header.page-header > h1 {
+    font: bold calc(1em + 2 * (100vw - 120px) / 100) 'Dancing Script', cursive,
+        fantasy;
+        background-color: #df60f2;
+        text-shadow: 2%;
+        text-align: center;
+    margin: 5%;
+}
+
+main {
+    font: 1rem 'Fira Sans', impact;
+}
+
+article {
+    min-height: 100%;
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    padding: 1px;
+    background-color: #45a1ff;
+    color: #fff;
+    text-align: center;
+}
