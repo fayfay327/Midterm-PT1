@@ -10,7 +10,7 @@
 
 <meta charset="UTF-8">
 
-        <div style="background-color:lightblue; color:#e43fdb, 0.92); padding:5px;">
+        <div style="background-color:lightblue; color:#e43fdb); padding:5px;">
           <h1> KEY</h1>
             <p>None of these entries will include "< >" because I do not want to confuse myself as I am typing out my code;&#128516; </p>
             <h2>doctype</h2>
@@ -29,18 +29,163 @@
             </p>
             <h2>td</h2>
             <p>
-              reveals your rows elements
+              defines a cell in a table
             </p>
             <h2>div</h2>
             <p>
-
+            defines a section within an HTML document
             </p>
             <h2>span</h2>
             <p>
-
+            defines a section within another tag
             </p>
             <h2>a href</h2>
+            <p>
+              tag for url links
+            </p>
+            <h2>px</h2>
+            <p>
+              display pixel amount for images, borders, etc
+            </p>
+            <h2>img</h2>
+            <p>
+              tag for images
+            </p>
+            <h2>head</h2>
+            <p>
+              contains info about the document like metadata & instructions
+            </p>
+            <h2>src</h2>
+            <p>
+              attribute used to provide the file name of an image
+            </p>
+            <h2>h1 | h2 | h3 | h4 | h5 | h6 </h2>
+            <p>
+              controls the size of text
+            </p>
+            <h2>li</h2>
+            <p>
+              each item in an ordered list or unordered list must use this tag
+            </p>
+            <h2>br/</h2>
+            <p>
+              this tag creates a line break
+            </p>
+            <h2>hr/</h2>
+            <p>
+              this tag creates a horizontal line across the page
+            </p>
+            <h2>style</h2>
+            <p>
+              attribute used to control the appearance of an element
+            </p>
+            <h2>ol</h2>
+            <p>
+              used for numbered lists
+            </p>
+            <h2>ul</h2>
+            <p>
+              used for bulleted lists
+            </p>
+            <h2>p</h2>
+            <h2>!-- --></h2>
+            <p>
+              adds comments to your web page
+            </p>
+            <h2>title</h2>
+            <p>
+              defines the title displayed within the tab
+            </p>
+            <h2>strong</h2>
+            <p>
+              displays bold text
+            </p>
+            <h2>sub</h2>
+            <p>
+              displayes subscripted text
+            </p>
+            <h2>sup</h2>
+            <p>
+              displays superscripted text
+            </p>
+            <h2>id</h2>
+            <p>
+              specifies a unique id for an element
+            </p>
+            <h2>text-align</h2>
+            <p>
+              aligns the context of the text within your code
+              Can include: left, center, right
+            </p>
+            <h2>color</h2>
+            <p>
+              sets the text color of choosen element
+            </p>
+            <h2>font-size</h2>
+            <p>
+              sets the text size of an element
+            </p>
+            <h2>background color</h2>
+            <p>
+              sets the background color of an element
+            </p>
+            <h2>font-family</h2>
+            <p>
+              sets the font type of text; usually the simple text names like Times New Roman, Verdana, Sans-serif
+            </p>
+            <h2>article</h2>
+            <p>
+              specifies self-contained content
+            </p>
+            <h2>meta charset</h2>
+            <p>
+              to reveal emojis like #128509;
+            </p>
+            <h2>em</h2>
+            <p>
+              to display <em>emphasis</em>
+            </p>
+            <h2>big</h2>
+            <p>
+              displays <big>big text</big>
+            </p>
+            <h2>i</h2>
+            <p>
+              makes text display in <i>italics</i>
+            </p>
+            <h2>ins</h2>
+            <p>
+              specifies inserted text
+            </p>
+            <h2>del</h2>
+            <p>
+              meant for deleted text
+            </p>
+            <h2>abbr</h2>
+            <p>
+              creates an abbreviation
+            </p>
+            <h2>br</h2>
+            <p>
+              displays a line break
+            </p>
+            <h2>address</h2>
+            <p>
+              can be utilized for email and a physical address
+            </p>
+            <h2>audio</h2>
+            <p>
+              after adding in src it can display controls so users can play music
+            </p>
+            <h2>div</h2>
+            <p>
+              blocks a section within a document & a line break is placed before & after it
+            </p>
+            <h2>span</h2>
+            <p>
+              inline section within a document
+            </p>
             </div>
-
     </body>
 </html>
+
